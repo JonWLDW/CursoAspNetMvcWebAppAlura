@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/
+/src/.vs/
 /src/Alura.ListaLeitura.App/obj
 /src/Alura.ListaLeitura.App/bin
 
@@ -30,3 +30,4 @@
 *.rar
 *.tar
 *.zip
+*.sqlite
